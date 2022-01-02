@@ -1,0 +1,6 @@
+/log
+/temp
+/bin/
+!/bin/custom
+/roles
+.idea/
