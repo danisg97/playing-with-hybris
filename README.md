@@ -17,6 +17,7 @@ Get started with SAP Commerce 123, a series of guided tours that introduce you t
 | Extensions                          | Create an extension.                                                |
 | Data models                         | Data models. Items.xml. Database design.                            |
 | ImpEx                               | Import & Export. Essential & Project data.                          |
+| The Service Layer                   | The Hybris Service Layer.                                            |
 | ...                                 | ...                                                                 |
 
 ---
