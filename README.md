@@ -12,11 +12,11 @@ Get started with SAP Commerce 123, a series of guided tours that introduce you t
 
 | Content      | Description |
 | -----------                         | -----------                                                         |
-| Version control                     | Git repository                                                      |
+| Version control                     | Git repository.                                                     |
 | Accelerators & Recipes              | Install a recipe. B2b_china accelerator & Platform_only.            |
-| Extensions                          | Create an extension                                                 |
-| Data models                         | Data models. Items.xml. Database design                             |
-| ImpEx                               | Import & Export                                                     |
+| Extensions                          | Create an extension.                                                |
+| Data models                         | Data models. Items.xml. Database design.                            |
+| ImpEx                               | Import & Export. Essential & Project data.                          |
 | ...                                 | ...                                                                 |
 
 ---
