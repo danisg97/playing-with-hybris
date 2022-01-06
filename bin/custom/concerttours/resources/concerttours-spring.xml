@@ -43,4 +43,6 @@
         <property name = "productService" ref = "productService" />
     </bean>
 
+    <bean id="concertDaysUntilAttributeHandler" class="concerttours.attributehandlers.ConcertDaysUntilAttributeHandler"/>
+
 </beans>
