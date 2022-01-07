@@ -20,9 +20,9 @@ Get started with SAP Commerce 123, a series of guided tours that introduce you t
 | **The Service Layer**                   | The Hybris Service Layer.                                           |
 | **Testing**                             | Integration Tests. Unit Tests.                                      |
 | **The Facade Layer**                    | The Hybris Facade Layer.                                            |
-| **The FrontEnd**                        | JSPs & Views.                                                        |
-| **Dynamic Attributes**                  | Dynamic Attributes.                                                  |
-| ...                                     | ...                                                                 |
+| **The FrontEnd**                        | JSPs & Views.                                                       |
+| **Dynamic Attributes**                  | Dynamic Attributes.                                                 |
+| **Events & Listeners**                  | Events & Listeners.                                                 |
 | ...                                     | ...                                                                 |
 
 ---
