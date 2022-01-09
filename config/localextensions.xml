@@ -1,9 +1,15 @@
-<hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
-  <extensions>
-    <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
+<hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+              xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
+    <extensions>
+        <path dir='${HYBRIS_BIN_DIR}' autoload='false'/>
 
-    <!-- Your new extension -->
-    <extension dir="../custom/concerttours"/>
+        <!-- Your new extension -->
+        <extension dir="../custom/concerttours"/>
+        <extension name="platformbackoffice"/>
 
-  </extensions>
+        <!-- ext-template -->
+        <extension name="yempty"/>
+        <extension name="yhacext"/>
+
+    </extensions>
 </hybrisconfig>
