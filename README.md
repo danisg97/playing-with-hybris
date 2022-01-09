@@ -24,7 +24,9 @@ Get started with SAP Commerce 123, a series of guided tours that introduce you t
 | **Dynamic Attributes**                  | Dynamic Attributes.                                                 |
 | **Events & Listeners**                  | Events & Listeners.                                                 |
 | **Interceptors and Custom Events**      | Interceptors and Custom Events.                                     |
+| **Cron Jobs & Triggers**                | Cron Jobs & Triggers.                                               |
 | ...                                     | ...                                                                 |
+
 
 ---
 ---
