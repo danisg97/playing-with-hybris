@@ -19,7 +19,6 @@ hs_err_pid*
 # Hybris #
 ##########
 bin/*
-config/local.properties
 !bin/custom/
 gensrc/
 jalo/
@@ -35,6 +34,7 @@ platformhome.properties
 ruleset.xml
 classes/
 testreport/
+local.properties
 
 ###############
 # Hybris Data #
