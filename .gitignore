@@ -19,7 +19,7 @@ hs_err_pid*
 # Hybris #
 ##########
 bin/*
-!bin/custom/local.properties
+!bin/config/local.properties
 !bin/custom/
 gensrc/
 jalo/
