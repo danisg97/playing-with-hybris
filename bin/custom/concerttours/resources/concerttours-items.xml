@@ -59,7 +59,9 @@
                 </attribute>
                 <attribute qualifier="name" type="java.lang.String">
                     <description>name of band</description>
-                    <persistence type="property"/>
+                    <persistence type="property" />
+                    <modifiers optional="false" unique="true" />
+                    <defaultvalue>Band_Default_Value</defaultvalue>
                 </attribute>
                 <attribute qualifier="history" type="localized:java.lang.String">
                     <description>history of band</description>
