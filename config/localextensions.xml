@@ -7,9 +7,5 @@
         <extension dir="../custom/concerttours"/>
         <extension name="platformbackoffice"/>
 
-        <!-- ext-template -->
-        <extension name="yempty"/>
-        <extension name="yhacext"/>
-
     </extensions>
 </hybrisconfig>

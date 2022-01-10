@@ -41,7 +41,7 @@
 
     <itemtypes>
 
-        <itemtype generate="false" code="Product" autocreate="false">
+        <itemtype generate="true" code="Product" autocreate="false">
             <attributes>
                 <attribute qualifier="hashtag" type="localized:java.lang.String">
                     <description>hashtag of concert tour for social media</description>
