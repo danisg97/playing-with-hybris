@@ -27,7 +27,7 @@ Get started with SAP Commerce 123, a series of guided tours that introduce you t
 | **Cron Jobs & Triggers**                | Cron Jobs & Triggers.                                               |
 | **Backoffice Administration Cockpit**   | Backoffice Administration Cockpit.                                  |
 | **Localization**                        | Localization.                                                       |
-| **Validation**                          | Validation                                                          |
+| **Validation**                          | Validation. Backoffice validations, Code validations, ...           |
 | ...                                     | ...                                                                 |
 
 
